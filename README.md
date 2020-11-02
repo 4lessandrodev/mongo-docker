@@ -7,7 +7,7 @@
 
 `https://docs.docker.com/get-docker/`
 
-- Também deve ter o docker-compose instalado 
+- Também deve ter o docker-compose instalado (Para Linux, para os demais O.S o mesmo é instalado com o passo anterior) 
 
 `https://docs.docker.com/compose/install/#install-compose`
 
@@ -21,6 +21,8 @@
 
 Pronto seu mongo está rodando na porta 27017 
 Você pode acessar o client pelo link http://localhost:8081
+
+#### Opcionalmente 
 
 Para ter acesso ao banco de dados você pode utilizar o robot 3t
 

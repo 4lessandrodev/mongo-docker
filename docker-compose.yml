@@ -12,7 +12,7 @@ services:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: root
 
-# Client to see database detais on browser http://localhost:8081/
+# Client to see database details on browser http://localhost:8081/
   mongo-express:
     image: mongo-express
     restart: always
