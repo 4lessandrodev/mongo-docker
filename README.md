@@ -26,7 +26,23 @@ Para ter acesso ao banco de dados você pode utilizar o robot 3t
 
 https://robomongo.org/
 
-Conexão: localhost:27017 
-user: root 
-senha: root
+- Conexão: localhost:27017 
+- user: root 
+- senha: root
+
+##### Para interagir com o container via terminal 
+
+`docker exec -it mongo_mongo_1 bash`
+
+[mongo_mongo_1] é o nome do container
+
+Para confirmar o nome do container em sua máquina basta execurar o comando 
+
+`docker ps`
+
+O nome encontra-se na ultima coluna [NAMES]
+
+Para sair do modo de interação pode executar o comando 
+
+`exit`
 
