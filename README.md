@@ -4,7 +4,12 @@
 ##### Requisitos:
 
 - Você precisa ter o docker desktop instalado 
+
+`https://docs.docker.com/get-docker/`
+
 - Também deve ter o docker-compose instalado 
+
+`https://docs.docker.com/compose/install/#install-compose`
 
 ##### Passos 
 
